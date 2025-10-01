@@ -33,9 +33,9 @@ Stuxnet is a highly sophisticated piece of malware discovered in 2010 that targe
 
 ---
 
-[View the PDF](report.pdf.pdf)
+[View the PDF of Attacks and Detection in ICS - Stuxnet](report.pdf.pdf)
 
-
+---
 
 
 ## 📚 References (examples of sources to read)
