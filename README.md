@@ -31,11 +31,16 @@ Stuxnet is a highly sophisticated piece of malware discovered in 2010 that targe
 * **File Integrity & IOCs**: Monitor engineering workstations for modified Step7 projects, suspicious binaries, or known hashes from vendor advisories.
 * **Network Segmentation**: Keep ICS networks isolated from IT networks; monitor traffic for unusual patterns.
 
+<!-- Use the site-relative path if the PDF is published to Pages at the same location -->
+<iframe src="report.pdf" width="100%" height="800px" ></iframe>
+
+
+
 
 ## 📚 References (examples of sources to read)
 
 * Vendor advisories (Symantec / Microsoft / CERT / ICS‑CERT) and reputable writeups (Kaspersky, Wired, academic papers).
-* 
+
 
 
 
